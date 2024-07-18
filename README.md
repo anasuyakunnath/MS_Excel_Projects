@@ -37,6 +37,7 @@ KPIs Used
    significantly lower sales figures at 2,799 and 6,697 units, respectively.
 
 4. Top 5 Customers
+   
    A small number of customers contribute significantly to sales. The top customer, Brenn Dundredge, has a total sales value of 317.07 units, followed by other top customers such as Terri Farra and Nealson 
    Cuttler, each contributing around 280-307 units. This highlights the importance of key customers in driving sales.
 
