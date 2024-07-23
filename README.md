@@ -2,7 +2,8 @@
 This repository contains a comprehensive Excel project focused on data analysis and visualization. The project showcases various analytical techniques and visual representation methods to extract meaningful insights from data.
 
 ## 1. Coffee Sales Dashboard 
-*Kinldy download the file name coffeeOrdersDashboard.xlsx and view them in MS Excel.*
+*Kinldy download the file name coffeeOrdersDashboard.xlsx and view them in MS Excel
+
 Sales Report of Coffee Sales in a coffee shop
 KPIs Used
 1. Monthwise Sales report
@@ -46,5 +47,40 @@ KPIs Used
 2. Customer Retention: Focus on retaining and nurturing relationships with top customers to sustain and increase their purchasing levels.
 3. Geographic Expansion: Explore opportunities to increase market penetration in countries with lower sales figures to diversify and grow the customer base.
 ![Screenshot (209)](https://github.com/user-attachments/assets/4943a599-9173-4057-b697-08ee36ee18fd)
+
+
+## 1. Vrinda Stores Sales Analysis
+*Kinldy download the file name vrinda store data analysis_PROJECT.xlsx and view them in MS Excel.*
+
+Sales Analysis process
+1. Data Cleaning
+2. Data Preparation using functions
+3. Data Explorations
+4. Data Visualization
+5. Data Analysis
+
+**Key Insights**
+1. Sales Peaks : The sales and order volumes peak during the months of March to May, indicating a seasonal trend where customers are more active during these months. There is a notable decline in sales towards the end of the year.
+2. Top Sales Channel : Amazon is the leading sales channel, contributing 35% of the total sales, followed by Flipkart (22%) and Myntra (23%). These three platforms together form a significant portion of the sales distribution.
+3. Order Status : A substantial 92% of orders are successfully delivered, demonstrating efficient logistics and customer satisfaction. Refunds, returns, and cancellations are minimal, each accounting for around 2-3%.
+4. Top Performing State Regions: Maharashtra and Karnataka are the top-performing states with sales figures of 2.99M and 2.65M, respectively. Other states like Uttar Pradesh, Telangana, and Tamil Nadu also show strong sales performance.
+5. Customer Demographics :
+   A. Gender Distribution: Women account for 64% of the total sales, indicating a significant female customer base. Men make up 36% of the sales.
+   B. Age Distribution: Adults are the predominant age group purchasing products, contributing 52.33% to the sales. Teenagers and seniors have smaller shares.
+6. Sales Segmentation: The B2C (Business to Consumer) segment is overwhelmingly larger than the B2B (Business to Business) segment, with sales figures of 21,050,056 compared to 126,321.
+
+**Recommendations**:
+1. Enhance Off Season Marketing : By making strategies for low performing months. Develop targeted marketing campaigns and promotional offers to boost sales during the months with lower performance. Consider 
+   holiday sales, discounts, and special events to attract more customers during these periods.
+2. Optimize Channel Strategy: Focus on Top Channels, continue to strengthen relationships and marketing efforts with top-performing channels such as Amazon, Flipkart, and Myntra to maximize sales.
+   Grow Smaller Channels, explore opportunities to expand sales through smaller channels like Meesho and Ajio by offering exclusive deals, partnerships, and targeted marketing.
+3. Demographic Targeting: Since women represent a larger and established portion of the customer base, consider creating campaigns and product lines that cater specifically to males preferences along with female.
+4. Regional Marketing Efforts: Invest in Top Regions, continue to invest in high-performing regions like Maharashtra and Karnataka to further boost sales and market presence.
+   Target Underperforming Regions, Develop specific marketing strategies to increase sales in regions with lower performance. This could include localized advertising, promotions, and market research to 
+   understand regional preferences.
+5. Expand B2B Sales: Growth in B2B Segment, identify strategies to grow the B2B segment, such as offering bulk purchase discounts, developing corporate sales programs, and establishing partnerships with 
+   businesses and organizations.
+![Screenshot (228)](https://github.com/user-attachments/assets/17635240-1b72-49e6-a22a-72b93105de74)
+
 
 
