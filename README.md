@@ -49,7 +49,7 @@ KPIs Used
 ![Screenshot (209)](https://github.com/user-attachments/assets/4943a599-9173-4057-b697-08ee36ee18fd)
 
 
-## 1. Vrinda Stores Sales Analysis
+## 2. Vrinda Stores Sales Analysis
 *Kinldy download the file name vrinda store data analysis_PROJECT.xlsx and view them in MS Excel.*
 
 Sales Analysis process
